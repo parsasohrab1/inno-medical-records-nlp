@@ -1,0 +1,119 @@
+{
+  "package": "inno_medical_records_nlp",
+  "trl_claim": 4,
+  "data": "synthetic only",
+  "all_pass": true,
+  "runs": [
+    {
+      "seed": 0,
+      "metrics": {
+        "entity_f1": 0.9997,
+        "entity_precision": 1.0,
+        "entity_recall": 0.9994,
+        "negation_accuracy": 1.0,
+        "icd_top1_accuracy": 0.998,
+        "n_notes": 500
+      },
+      "criteria": [
+        {
+          "metric": "entity_f1",
+          "op": ">=",
+          "threshold": 0.9,
+          "value": 0.9997,
+          "pass": true,
+          "description": "entity extraction F1 (type + normalised text)"
+        },
+        {
+          "metric": "negation_accuracy",
+          "op": ">=",
+          "threshold": 0.9,
+          "value": 1.0,
+          "pass": true,
+          "description": "negation status accuracy on matched entities"
+        },
+        {
+          "metric": "icd_top1_accuracy",
+          "op": ">=",
+          "threshold": 0.9,
+          "value": 0.998,
+          "pass": true,
+          "description": "ICD-10 suggestion accuracy on true conditions"
+        }
+      ]
+    },
+    {
+      "seed": 1,
+      "metrics": {
+        "entity_f1": 1.0,
+        "entity_precision": 1.0,
+        "entity_recall": 1.0,
+        "negation_accuracy": 1.0,
+        "icd_top1_accuracy": 1.0,
+        "n_notes": 500
+      },
+      "criteria": [
+        {
+          "metric": "entity_f1",
+          "op": ">=",
+          "threshold": 0.9,
+          "value": 1.0,
+          "pass": true,
+          "description": "entity extraction F1 (type + normalised text)"
+        },
+        {
+          "metric": "negation_accuracy",
+          "op": ">=",
+          "threshold": 0.9,
+          "value": 1.0,
+          "pass": true,
+          "description": "negation status accuracy on matched entities"
+        },
+        {
+          "metric": "icd_top1_accuracy",
+          "op": ">=",
+          "threshold": 0.9,
+          "value": 1.0,
+          "pass": true,
+          "description": "ICD-10 suggestion accuracy on true conditions"
+        }
+      ]
+    },
+    {
+      "seed": 2,
+      "metrics": {
+        "entity_f1": 0.9994,
+        "entity_precision": 1.0,
+        "entity_recall": 0.9987,
+        "negation_accuracy": 1.0,
+        "icd_top1_accuracy": 0.996,
+        "n_notes": 500
+      },
+      "criteria": [
+        {
+          "metric": "entity_f1",
+          "op": ">=",
+          "threshold": 0.9,
+          "value": 0.9994,
+          "pass": true,
+          "description": "entity extraction F1 (type + normalised text)"
+        },
+        {
+          "metric": "negation_accuracy",
+          "op": ">=",
+          "threshold": 0.9,
+          "value": 1.0,
+          "pass": true,
+          "description": "negation status accuracy on matched entities"
+        },
+        {
+          "metric": "icd_top1_accuracy",
+          "op": ">=",
+          "threshold": 0.9,
+          "value": 0.996,
+          "pass": true,
+          "description": "ICD-10 suggestion accuracy on true conditions"
+        }
+      ]
+    }
+  ]
+}
