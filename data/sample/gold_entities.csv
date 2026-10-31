@@ -1,0 +1,626 @@
+note_id,text,type,negated,icd10
+N0000,درد قفسه سینه,symptom,0,
+N0000,هیپرتانسیون,condition,0,I10
+N0001,سردرد,symptom,0,
+N0001,دیابت شیرین,condition,0,E11
+N0001,آملودیپین,drug,0,
+N0002,درد قفسه سینه,symptom,0,
+N0002,سنگ کلیه,condition,0,N20
+N0002,آسپرین,drug,0,
+N0003,تنگی نفس,symptom,0,
+N0003,ذات الریه,condition,0,J18
+N0003,آتورواستاتین,drug,0,
+N0004,تب,symptom,0,
+N0004,دیابت,condition,0,E11
+N0004,سرفه,symptom,1,
+N0004,آموکسی سیلین,drug,0,
+N0005,تهوع,symptom,0,
+N0005,دیابت شیرین,condition,0,E11
+N0005,سردرد,symptom,1,
+N0006,تنگی نفس,symptom,0,
+N0006,سنگ کلیه,condition,0,N20
+N0006,تهوع,symptom,1,
+N0007,تهوع,symptom,0,
+N0007,سکته مغزی,condition,0,I64
+N0008,تنگی نفس,symptom,0,
+N0008,فشار خون بالا,condition,0,I10
+N0008,سالبوتامول,drug,0,
+N0009,سردرد,symptom,0,
+N0009,میگرن,condition,0,G43
+N0009,آسپرین,drug,0,
+N0010,درد قفسه سینه,symptom,0,
+N0010,دیابت,condition,0,E11
+N0010,سالبوتامول,drug,0,
+N0011,درد قفسه سینه,symptom,0,
+N0011,نارسایی قلبی,condition,0,I50
+N0011,متفورمین,drug,0,
+N0012,تهوع,symptom,0,
+N0012,هیپرتانسیون,condition,0,I10
+N0012,تب,symptom,1,
+N0012,آسپرین,drug,0,
+N0013,تب,symptom,0,
+N0013,کم خونی,condition,0,D64
+N0013,تنگی نفس,symptom,1,
+N0013,سالبوتامول,drug,0,
+N0014,سرفه,symptom,0,
+N0014,آنمی,condition,0,D64
+N0014,آسپرین,drug,0,
+N0015,سردرد,symptom,0,
+N0015,آنمی,condition,0,D64
+N0015,سالبوتامول,drug,0,
+N0016,درد قفسه سینه,symptom,0,
+N0016,میگرن,condition,0,G43
+N0017,تهوع,symptom,0,
+N0017,سکته مغزی,condition,0,I64
+N0017,سردرد,symptom,1,
+N0017,آموکسی سیلین,drug,0,
+N0018,تهوع,symptom,0,
+N0018,فشار خون بالا,condition,0,I10
+N0018,سرفه,symptom,1,
+N0018,آموکسی سیلین,drug,0,
+N0019,درد قفسه سینه,symptom,0,
+N0019,التهاب آپاندیس,condition,0,K35
+N0019,تهوع,symptom,1,
+N0019,آموکسی سیلین,drug,0,
+N0020,سرفه,symptom,0,
+N0020,پرفشاری خون,condition,0,I10
+N0021,سردرد,symptom,0,
+N0021,میگرن,condition,0,G43
+N0021,سرفه,symptom,1,
+N0022,تهوع,symptom,0,
+N0022,آسم برونشیال,condition,0,J45
+N0023,درد قفسه سینه,symptom,0,
+N0023,آسم برونشیال,condition,0,J45
+N0023,تهوع,symptom,1,
+N0023,متفورمین,drug,0,
+N0024,تب,symptom,0,
+N0024,ذات الریه,condition,0,J18
+N0024,متفورمین,drug,0,
+N0025,درد قفسه سینه,symptom,0,
+N0025,سکته مغزی,condition,0,I64
+N0025,سرفه,symptom,1,
+N0025,آموکسی سیلین,drug,0,
+N0026,تب,symptom,0,
+N0026,آپاندیسیت,condition,0,K35
+N0026,آتورواستاتین,drug,0,
+N0027,درد قفسه سینه,symptom,0,
+N0027,آنمی,condition,0,D64
+N0028,سردرد,symptom,0,
+N0028,سنگ کلیه,condition,0,N20
+N0028,آملودیپین,drug,0,
+N0029,سرفه,symptom,0,
+N0029,پنومونی,condition,0,J18
+N0029,تنگی نفس,symptom,1,
+N0029,متفورمین,drug,0,
+N0030,سرفه,symptom,0,
+N0030,هیپرتانسیون,condition,0,I10
+N0030,تنگی نفس,symptom,1,
+N0030,متفورمین,drug,0,
+N0031,درد قفسه سینه,symptom,0,
+N0031,آنمی,condition,0,D64
+N0031,سردرد,symptom,1,
+N0032,تب,symptom,0,
+N0032,التهاب آپاندیس,condition,0,K35
+N0032,سردرد,symptom,1,
+N0033,تنگی نفس,symptom,0,
+N0033,کم خونی,condition,0,D64
+N0033,سالبوتامول,drug,0,
+N0034,سردرد,symptom,0,
+N0034,پرفشاری خون,condition,0,I10
+N0034,درد قفسه سینه,symptom,1,
+N0035,سرفه,symptom,0,
+N0035,آسم برونشیال,condition,0,J45
+N0036,سردرد,symptom,0,
+N0036,کم خونی,condition,0,D64
+N0036,درد قفسه سینه,symptom,1,
+N0037,سردرد,symptom,0,
+N0037,نارسایی قلبی,condition,0,I50
+N0037,درد قفسه سینه,symptom,1,
+N0037,آتورواستاتین,drug,0,
+N0038,درد قفسه سینه,symptom,0,
+N0038,التهاب آپاندیس,condition,0,K35
+N0038,آتورواستاتین,drug,0,
+N0039,تهوع,symptom,0,
+N0039,پنومونی,condition,0,J18
+N0039,آملودیپین,drug,0,
+N0040,سرفه,symptom,0,
+N0040,نارسایی احتقانی قلب,condition,0,I50
+N0040,آملودیپین,drug,0,
+N0041,درد قفسه سینه,symptom,0,
+N0041,آپاندیسیت,condition,0,K35
+N0041,آموکسی سیلین,drug,0,
+N0042,سردرد,symptom,0,
+N0042,آپاندیسیت,condition,0,K35
+N0043,سرفه,symptom,0,
+N0043,ذات الریه,condition,0,J18
+N0043,آتورواستاتین,drug,0,
+N0044,درد قفسه سینه,symptom,0,
+N0044,آسم برونشیال,condition,0,J45
+N0044,آسپرین,drug,0,
+N0045,تب,symptom,0,
+N0045,کم خونی,condition,0,D64
+N0045,تنگی نفس,symptom,1,
+N0046,درد قفسه سینه,symptom,0,
+N0046,التهاب آپاندیس,condition,0,K35
+N0046,آتورواستاتین,drug,0,
+N0047,سرفه,symptom,0,
+N0047,ذات الریه,condition,0,J18
+N0047,متفورمین,drug,0,
+N0048,تب,symptom,0,
+N0048,سنگ کلیه,condition,0,N20
+N0048,آموکسی سیلین,drug,0,
+N0049,درد قفسه سینه,symptom,0,
+N0049,هیپرتانسیون,condition,0,I10
+N0049,آسپرین,drug,0,
+N0050,سردرد,symptom,0,
+N0050,آسم,condition,0,J45
+N0050,تنگی نفس,symptom,1,
+N0050,آموکسی سیلین,drug,0,
+N0051,تنگی نفس,symptom,0,
+N0051,ذات الریه,condition,0,J18
+N0051,درد قفسه سینه,symptom,1,
+N0051,آملودیپین,drug,0,
+N0052,تهوع,symptom,0,
+N0052,نارسایی احتقانی قلب,condition,0,I50
+N0052,تنگی نفس,symptom,1,
+N0052,سالبوتامول,drug,0,
+N0053,سردرد,symptom,0,
+N0053,پرفشاری خون,condition,0,I10
+N0054,سرفه,symptom,0,
+N0054,آسم برونشیال,condition,0,J45
+N0054,آتورواستاتین,drug,0,
+N0055,سرفه,symptom,0,
+N0055,هیپرتانسیون,condition,0,I10
+N0056,تنگی نفس,symptom,0,
+N0056,سکته مغزی,condition,0,I64
+N0057,تهوع,symptom,0,
+N0057,فشار خون بالا,condition,0,I10
+N0057,آموکسی سیلین,drug,0,
+N0058,سرفه,symptom,0,
+N0058,نارسایی احتقانی قلب,condition,0,I50
+N0059,تب,symptom,0,
+N0059,میگرن,condition,0,G43
+N0059,آتورواستاتین,drug,0,
+N0060,سرفه,symptom,0,
+N0060,سکته مغزی,condition,0,I64
+N0061,تب,symptom,0,
+N0061,سنگ کلیه,condition,0,N20
+N0061,آتورواستاتین,drug,0,
+N0062,تب,symptom,0,
+N0062,نارسایی قلبی,condition,0,I50
+N0062,آسپرین,drug,0,
+N0063,تهوع,symptom,0,
+N0063,سنگ کلیه,condition,0,N20
+N0063,درد قفسه سینه,symptom,1,
+N0063,آموکسی سیلین,drug,0,
+N0064,درد قفسه سینه,symptom,0,
+N0064,پنومونی,condition,0,J18
+N0064,سرفه,symptom,1,
+N0064,آتورواستاتین,drug,0,
+N0065,سرفه,symptom,0,
+N0065,آسم برونشیال,condition,0,J45
+N0066,سرفه,symptom,0,
+N0066,ذات الریه,condition,0,J18
+N0066,درد قفسه سینه,symptom,1,
+N0067,سردرد,symptom,0,
+N0067,آپاندیسیت,condition,0,K35
+N0067,آتورواستاتین,drug,0,
+N0068,تنگی نفس,symptom,0,
+N0068,آسم,condition,0,J45
+N0068,سرفه,symptom,1,
+N0069,سردرد,symptom,0,
+N0069,میگرن,condition,0,G43
+N0069,سالبوتامول,drug,0,
+N0070,سردرد,symptom,0,
+N0070,سکته مغزی,condition,0,I64
+N0070,درد قفسه سینه,symptom,1,
+N0070,آسپرین,drug,0,
+N0071,درد قفسه سینه,symptom,0,
+N0071,نارسایی احتقانی قلب,condition,0,I50
+N0071,سالبوتامول,drug,0,
+N0072,سرفه,symptom,0,
+N0072,میگرن,condition,0,G43
+N0072,تهوع,symptom,1,
+N0072,متفورمین,drug,0,
+N0073,تنگی نفس,symptom,0,
+N0073,سنگ کلیه,condition,0,N20
+N0073,آسپرین,drug,0,
+N0074,تنگی نفس,symptom,0,
+N0074,آسم برونشیال,condition,0,J45
+N0074,تب,symptom,1,
+N0074,سالبوتامول,drug,0,
+N0075,تنگی نفس,symptom,0,
+N0075,دیابت شیرین,condition,0,E11
+N0075,متفورمین,drug,0,
+N0076,تب,symptom,0,
+N0076,آنمی,condition,0,D64
+N0077,سردرد,symptom,0,
+N0077,پنومونی,condition,0,J18
+N0077,آموکسی سیلین,drug,0,
+N0078,سرفه,symptom,0,
+N0078,میگرن,condition,0,G43
+N0078,سردرد,symptom,1,
+N0078,متفورمین,drug,0,
+N0079,سردرد,symptom,0,
+N0079,دیابت,condition,0,E11
+N0079,تنگی نفس,symptom,1,
+N0079,آتورواستاتین,drug,0,
+N0080,تب,symptom,0,
+N0080,نارسایی احتقانی قلب,condition,0,I50
+N0080,آملودیپین,drug,0,
+N0081,سرفه,symptom,0,
+N0081,آپاندیسیت,condition,0,K35
+N0081,درد قفسه سینه,symptom,1,
+N0081,آتورواستاتین,drug,0,
+N0082,درد قفسه سینه,symptom,0,
+N0082,سنگ کلیه,condition,0,N20
+N0082,آتورواستاتین,drug,0,
+N0083,تهوع,symptom,0,
+N0083,نارسایی قلبی,condition,0,I50
+N0084,سردرد,symptom,0,
+N0084,سکته مغزی,condition,0,I64
+N0084,آملودیپین,drug,0,
+N0085,سردرد,symptom,0,
+N0085,کم خونی,condition,0,D64
+N0085,تنگی نفس,symptom,1,
+N0086,سرفه,symptom,0,
+N0086,فشار خون بالا,condition,0,I10
+N0086,سردرد,symptom,1,
+N0087,درد قفسه سینه,symptom,0,
+N0087,هیپرتانسیون,condition,0,I10
+N0087,تب,symptom,1,
+N0088,تهوع,symptom,0,
+N0088,نارسایی قلبی,condition,0,I50
+N0088,سردرد,symptom,1,
+N0089,تهوع,symptom,0,
+N0089,سنگ کلیه,condition,0,N20
+N0089,متفورمین,drug,0,
+N0090,سردرد,symptom,0,
+N0090,سنگ کلیه,condition,0,N20
+N0090,درد قفسه سینه,symptom,1,
+N0090,آسپرین,drug,0,
+N0091,تنگی نفس,symptom,0,
+N0091,دیابت نوع 2,condition,0,E11
+N0091,سالبوتامول,drug,0,
+N0092,سردرد,symptom,0,
+N0092,میگرن,condition,0,G43
+N0092,متفورمین,drug,0,
+N0093,تهوع,symptom,0,
+N0093,آسم برونشیال,condition,0,J45
+N0093,متفورمین,drug,0,
+N0094,سردرد,symptom,0,
+N0094,سنگ کلیه,condition,0,N20
+N0094,تهوع,symptom,1,
+N0094,سالبوتامول,drug,0,
+N0095,تهوع,symptom,0,
+N0095,دیابت نوع 2,condition,0,E11
+N0095,سالبوتامول,drug,0,
+N0096,سردرد,symptom,0,
+N0096,دیابت نوع 2,condition,0,E11
+N0096,آتورواستاتین,drug,0,
+N0097,تب,symptom,0,
+N0097,هیپرتانسیون,condition,0,I10
+N0097,سردرد,symptom,1,
+N0097,متفورمین,drug,0,
+N0098,تب,symptom,0,
+N0098,سکته مغزی,condition,0,I64
+N0098,متفورمین,drug,0,
+N0099,تب,symptom,0,
+N0099,آنمی,condition,0,D64
+N0100,سردرد,symptom,0,
+N0100,التهاب آپاندیس,condition,0,K35
+N0100,سرفه,symptom,1,
+N0100,متفورمین,drug,0,
+N0101,سردرد,symptom,0,
+N0101,میگرن,condition,0,G43
+N0102,درد قفسه سینه,symptom,0,
+N0102,نارسایی احتقانی قلب,condition,0,I50
+N0103,سردرد,symptom,0,
+N0103,ذات الریه,condition,0,J18
+N0103,تب,symptom,1,
+N0104,درد قفسه سینه,symptom,0,
+N0104,سنگ کلیه,condition,0,N20
+N0104,سردرد,symptom,1,
+N0104,متفورمین,drug,0,
+N0105,تب,symptom,0,
+N0105,دیابت نوع 2,condition,0,E11
+N0105,تنگی نفس,symptom,1,
+N0105,سالبوتامول,drug,0,
+N0106,سرفه,symptom,0,
+N0106,دیابت نوع 2,condition,0,E11
+N0107,سردرد,symptom,0,
+N0107,التهاب آپاندیس,condition,0,K35
+N0108,تنگی نفس,symptom,0,
+N0108,میگرن,condition,0,G43
+N0109,سرفه,symptom,0,
+N0109,دیابت,condition,0,E11
+N0110,تهوع,symptom,0,
+N0110,دیابت نوع 2,condition,0,E11
+N0110,متفورمین,drug,0,
+N0111,تهوع,symptom,0,
+N0111,میگرن,condition,0,G43
+N0111,سرفه,symptom,1,
+N0112,سردرد,symptom,0,
+N0112,هیپرتانسیون,condition,0,I10
+N0113,تب,symptom,0,
+N0113,سکته مغزی,condition,0,I64
+N0113,آملودیپین,drug,0,
+N0114,تنگی نفس,symptom,0,
+N0114,سکته مغزی,condition,0,I64
+N0115,تب,symptom,0,
+N0115,آنمی,condition,0,D64
+N0115,آملودیپین,drug,0,
+N0116,درد قفسه سینه,symptom,0,
+N0116,نارسایی قلبی,condition,0,I50
+N0116,متفورمین,drug,0,
+N0117,تهوع,symptom,0,
+N0117,نارسایی احتقانی قلب,condition,0,I50
+N0117,سرفه,symptom,1,
+N0118,سردرد,symptom,0,
+N0118,سکته مغزی,condition,0,I64
+N0118,تهوع,symptom,1,
+N0118,آملودیپین,drug,0,
+N0119,درد قفسه سینه,symptom,0,
+N0119,سنگ کلیه,condition,0,N20
+N0120,تب,symptom,0,
+N0120,ذات الریه,condition,0,J18
+N0120,سردرد,symptom,1,
+N0120,آتورواستاتین,drug,0,
+N0121,سردرد,symptom,0,
+N0121,نارسایی قلبی,condition,0,I50
+N0121,تهوع,symptom,1,
+N0121,آتورواستاتین,drug,0,
+N0122,درد قفسه سینه,symptom,0,
+N0122,کم خونی,condition,0,D64
+N0122,تنگی نفس,symptom,1,
+N0123,سردرد,symptom,0,
+N0123,پرفشاری خون,condition,0,I10
+N0123,تب,symptom,1,
+N0124,تب,symptom,0,
+N0124,آسم برونشیال,condition,0,J45
+N0124,تهوع,symptom,1,
+N0124,آسپرین,drug,0,
+N0125,درد قفسه سینه,symptom,0,
+N0125,دیابت,condition,0,E11
+N0125,سردرد,symptom,1,
+N0126,تنگی نفس,symptom,0,
+N0126,نارسایی احتقانی قلب,condition,0,I50
+N0127,تنگی نفس,symptom,0,
+N0127,پنومونی,condition,0,J18
+N0127,سرفه,symptom,1,
+N0127,سالبوتامول,drug,0,
+N0128,سردرد,symptom,0,
+N0128,آنمی,condition,0,D64
+N0128,تنگی نفس,symptom,1,
+N0128,آسپرین,drug,0,
+N0129,درد قفسه سینه,symptom,0,
+N0129,آسم,condition,0,J45
+N0129,تهوع,symptom,1,
+N0129,متفورمین,drug,0,
+N0130,سرفه,symptom,0,
+N0130,دیابت,condition,0,E11
+N0130,تنگی نفس,symptom,1,
+N0130,آسپرین,drug,0,
+N0131,تهوع,symptom,0,
+N0131,دیابت شیرین,condition,0,E11
+N0132,درد قفسه سینه,symptom,0,
+N0132,ذات الریه,condition,0,J18
+N0132,تهوع,symptom,1,
+N0132,آسپرین,drug,0,
+N0133,سرفه,symptom,0,
+N0133,دیابت,condition,0,E11
+N0133,تب,symptom,1,
+N0134,تنگی نفس,symptom,0,
+N0134,سنگ کلیه,condition,0,N20
+N0134,تهوع,symptom,1,
+N0134,آسپرین,drug,0,
+N0135,درد قفسه سینه,symptom,0,
+N0135,آپاندیسیت,condition,0,K35
+N0136,تهوع,symptom,0,
+N0136,میگرن,condition,0,G43
+N0136,آتورواستاتین,drug,0,
+N0137,تهوع,symptom,0,
+N0137,کم خونی,condition,0,D64
+N0137,درد قفسه سینه,symptom,1,
+N0138,سردرد,symptom,0,
+N0138,سکته مغزی,condition,0,I64
+N0138,متفورمین,drug,0,
+N0139,سردرد,symptom,0,
+N0139,التهاب آپاندیس,condition,0,K35
+N0139,آتورواستاتین,drug,0,
+N0140,سردرد,symptom,0,
+N0140,سنگ کلیه,condition,0,N20
+N0141,تب,symptom,0,
+N0141,دیابت نوع 2,condition,0,E11
+N0141,تهوع,symptom,1,
+N0141,متفورمین,drug,0,
+N0142,سرفه,symptom,0,
+N0142,سنگ کلیه,condition,0,N20
+N0142,درد قفسه سینه,symptom,1,
+N0142,آسپرین,drug,0,
+N0143,تنگی نفس,symptom,0,
+N0143,دیابت نوع 2,condition,0,E11
+N0144,تنگی نفس,symptom,0,
+N0144,نارسایی قلبی,condition,0,I50
+N0144,سالبوتامول,drug,0,
+N0145,سرفه,symptom,0,
+N0145,دیابت,condition,0,E11
+N0146,درد قفسه سینه,symptom,0,
+N0146,دیابت شیرین,condition,0,E11
+N0146,سرفه,symptom,1,
+N0147,درد قفسه سینه,symptom,0,
+N0147,آسم,condition,0,J45
+N0147,تنگی نفس,symptom,1,
+N0148,سرفه,symptom,0,
+N0148,کم خونی,condition,0,D64
+N0148,تهوع,symptom,1,
+N0148,متفورمین,drug,0,
+N0149,تنگی نفس,symptom,0,
+N0149,پرفشاری خون,condition,0,I10
+N0149,سردرد,symptom,1,
+N0149,متفورمین,drug,0,
+N0150,تنگی نفس,symptom,0,
+N0150,پنومونی,condition,0,J18
+N0150,سالبوتامول,drug,0,
+N0151,تب,symptom,0,
+N0151,نارسایی احتقانی قلب,condition,0,I50
+N0151,آملودیپین,drug,0,
+N0152,تب,symptom,0,
+N0152,کم خونی,condition,0,D64
+N0152,درد قفسه سینه,symptom,1,
+N0152,متفورمین,drug,0,
+N0153,سردرد,symptom,0,
+N0153,آپاندیسیت,condition,0,K35
+N0153,تهوع,symptom,1,
+N0153,سالبوتامول,drug,0,
+N0154,سرفه,symptom,0,
+N0154,دیابت نوع 2,condition,0,E11
+N0154,آتورواستاتین,drug,0,
+N0155,تهوع,symptom,0,
+N0155,ذات الریه,condition,0,J18
+N0155,درد قفسه سینه,symptom,1,
+N0155,آتورواستاتین,drug,0,
+N0156,سرفه,symptom,0,
+N0156,پرفشاری خون,condition,0,I10
+N0156,تب,symptom,1,
+N0156,آملودیپین,drug,0,
+N0157,تنگی نفس,symptom,0,
+N0157,سنگ کلیه,condition,0,N20
+N0157,سالبوتامول,drug,0,
+N0158,سرفه,symptom,0,
+N0158,آنمی,condition,0,D64
+N0158,آملودیپین,drug,0,
+N0159,سردرد,symptom,0,
+N0159,ذات الریه,condition,0,J18
+N0159,تب,symptom,1,
+N0159,آملودیپین,drug,0,
+N0160,سرفه,symptom,0,
+N0160,پنومونی,condition,0,J18
+N0161,تهوع,symptom,0,
+N0161,سکته مغزی,condition,0,I64
+N0161,تنگی نفس,symptom,1,
+N0161,سالبوتامول,drug,0,
+N0162,تب,symptom,0,
+N0162,میگرن,condition,0,G43
+N0162,تنگی نفس,symptom,1,
+N0162,متفورمین,drug,0,
+N0163,تب,symptom,0,
+N0163,دیابت,condition,0,E11
+N0163,سردرد,symptom,1,
+N0163,متفورمین,drug,0,
+N0164,سردرد,symptom,0,
+N0164,آپاندیسیت,condition,0,K35
+N0164,تنگی نفس,symptom,1,
+N0164,آملودیپین,drug,0,
+N0165,تب,symptom,0,
+N0165,آنمی,condition,0,D64
+N0165,سردرد,symptom,1,
+N0165,سالبوتامول,drug,0,
+N0166,تهوع,symptom,0,
+N0166,آنمی,condition,0,D64
+N0166,سرفه,symptom,1,
+N0167,تب,symptom,0,
+N0167,سکته مغزی,condition,0,I64
+N0167,درد قفسه سینه,symptom,1,
+N0167,آموکسی سیلین,drug,0,
+N0168,تب,symptom,0,
+N0168,ذات الریه,condition,0,J18
+N0168,سردرد,symptom,1,
+N0169,تنگی نفس,symptom,0,
+N0169,آپاندیسیت,condition,0,K35
+N0169,تب,symptom,1,
+N0169,سالبوتامول,drug,0,
+N0170,تهوع,symptom,0,
+N0170,سکته مغزی,condition,0,I64
+N0170,آتورواستاتین,drug,0,
+N0171,سرفه,symptom,0,
+N0171,دیابت شیرین,condition,0,E11
+N0171,درد قفسه سینه,symptom,1,
+N0172,تهوع,symptom,0,
+N0172,نارسایی قلبی,condition,0,I50
+N0172,تب,symptom,1,
+N0172,متفورمین,drug,0,
+N0173,تنگی نفس,symptom,0,
+N0173,پرفشاری خون,condition,0,I10
+N0173,درد قفسه سینه,symptom,1,
+N0173,آتورواستاتین,drug,0,
+N0174,سردرد,symptom,0,
+N0174,آپاندیسیت,condition,0,K35
+N0174,تهوع,symptom,1,
+N0175,تنگی نفس,symptom,0,
+N0175,هیپرتانسیون,condition,0,I10
+N0175,تهوع,symptom,1,
+N0176,سردرد,symptom,0,
+N0176,دیابت,condition,0,E11
+N0176,درد قفسه سینه,symptom,1,
+N0177,تب,symptom,0,
+N0177,آپاندیسیت,condition,0,K35
+N0177,تنگی نفس,symptom,1,
+N0178,سرفه,symptom,0,
+N0178,پرفشاری خون,condition,0,I10
+N0178,سردرد,symptom,1,
+N0179,تنگی نفس,symptom,0,
+N0179,نارسایی احتقانی قلب,condition,0,I50
+N0179,سردرد,symptom,1,
+N0179,آموکسی سیلین,drug,0,
+N0180,سرفه,symptom,0,
+N0180,آپاندیسیت,condition,0,K35
+N0180,تهوع,symptom,1,
+N0181,درد قفسه سینه,symptom,0,
+N0181,آسم,condition,0,J45
+N0181,تب,symptom,1,
+N0182,تهوع,symptom,0,
+N0182,سکته مغزی,condition,0,I64
+N0182,سردرد,symptom,1,
+N0183,تهوع,symptom,0,
+N0183,کم خونی,condition,0,D64
+N0183,سالبوتامول,drug,0,
+N0184,سرفه,symptom,0,
+N0184,پرفشاری خون,condition,0,I10
+N0185,تب,symptom,0,
+N0185,دیابت,condition,0,E11
+N0185,تنگی نفس,symptom,1,
+N0185,آسپرین,drug,0,
+N0186,تب,symptom,0,
+N0186,سنگ کلیه,condition,0,N20
+N0186,درد قفسه سینه,symptom,1,
+N0186,آتورواستاتین,drug,0,
+N0187,درد قفسه سینه,symptom,0,
+N0187,میگرن,condition,0,G43
+N0188,درد قفسه سینه,symptom,0,
+N0188,آنمی,condition,0,D64
+N0189,تهوع,symptom,0,
+N0189,التهاب آپاندیس,condition,0,K35
+N0189,سردرد,symptom,1,
+N0190,سرفه,symptom,0,
+N0190,آسم برونشیال,condition,0,J45
+N0190,سردرد,symptom,1,
+N0191,تب,symptom,0,
+N0191,آنمی,condition,0,D64
+N0191,سردرد,symptom,1,
+N0191,سالبوتامول,drug,0,
+N0192,تهوع,symptom,0,
+N0192,ذات الریه,condition,0,J18
+N0192,سالبوتامول,drug,0,
+N0193,تب,symptom,0,
+N0193,سکته مغزی,condition,0,I64
+N0193,تهوع,symptom,1,
+N0194,تنگی نفس,symptom,0,
+N0194,سکته مغزی,condition,0,I64
+N0195,تهوع,symptom,0,
+N0195,دیابت نوع 2,condition,0,E11
+N0195,آتورواستاتین,drug,0,
+N0196,درد قفسه سینه,symptom,0,
+N0196,دیابت شیرین,condition,0,E11
+N0196,تنگی نفس,symptom,1,
+N0197,درد قفسه سینه,symptom,0,
+N0197,سنگ کلیه,condition,0,N20
+N0197,سردرد,symptom,1,
+N0197,متفورمین,drug,0,
+N0198,سرفه,symptom,0,
+N0198,آنمی,condition,0,D64
+N0198,تب,symptom,1,
+N0199,درد قفسه سینه,symptom,0,
+N0199,ذات الریه,condition,0,J18
+N0199,سرفه,symptom,1,
+N0199,آموکسی سیلین,drug,0,
